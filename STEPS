@@ -1,0 +1,50 @@
+# Password Strength Analysis & Best Practices
+
+## Overview
+
+This project explores password strength by creating and testing multiple passwords of varying complexity. 
+It aims to identify best practices for creating strong passwords and understanding common attack methods.
+
+## Mini Guide / Hints
+
+1. **Create multiple passwords with varying complexity.**  
+   Generate simple to complex passwords to analyze security differences.
+
+2. **Use uppercase, lowercase, numbers, symbols, and length variations.**  
+   Mix character types and vary length to improve strength.
+
+3. **Test each password on password strength checkers.**  
+   Evaluate passwords using tools that provide strength scores and crack time estimates.
+
+4. **Note scores and feedback from the tools.**  
+   Record results like “very weak”, “strong”, and feedback such as “too common” or “unique”.
+
+5. **Identify best practices for creating strong passwords.**  
+   Learn which password strategies work best to resist attacks.
+
+6. **Write down tips learned from the evaluation.**  
+   Summarize important advice, e.g., "Use at least 12 characters," "Avoid dictionary words," etc.
+
+7. **Research common password attacks (brute force, dictionary attacks, phishing, etc.).**  
+   Understand how attackers operate to better defend against them.
+
+8. **Summarize how password complexity affects security.**  
+   Conclude with insights on how complexity and length increase password strength and resistance to cracking.
+
+## Tips for Creating Strong Passwords
+
+- Use a mix of uppercase, lowercase, numbers, and symbols.
+- Choose passwords longer than 12 characters.
+- Avoid common words, phrases, or patterns.
+- Never reuse passwords across different accounts.
+- Consider using a password manager for secure storage.
+
+## Common Password Attacks
+
+- **Brute Force Attack:** Tries all possible combinations.
+- **Dictionary Attack:** Uses lists of common words.
+- **Phishing:** Tricks users into revealing passwords.
+
+## Conclusion
+
+Password complexity significantly increases security by making passwords harder and more time-consuming to crack. Implementing best practices along with user awareness can greatly reduce risk of compromise.
