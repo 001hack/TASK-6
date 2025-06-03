@@ -30,3 +30,6 @@ Gain a clear understanding of password security and best practices.
 * Best practices for password creation
 
 ---
+
+👨‍💻 Happy Learning!
+Feel free to ask any questions or share your thoughts. Let's discuss and learn together!
